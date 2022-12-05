@@ -11,6 +11,8 @@ Co-speech Gesutre Generation for ICASSP 2023
 > fasttext  
 > librosa  
 
+# Dataset preparation
+TBD
 
 # model structure
 ![image1](./image/Fig1.png)
